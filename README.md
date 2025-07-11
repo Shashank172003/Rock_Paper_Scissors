@@ -1,4 +1,4 @@
 # Rock_Paper_Scissors
 
 ## Screenshot
-![Game Screenshot](./Ss.png)
+![Game Screenshot](./images/Ss.png)
